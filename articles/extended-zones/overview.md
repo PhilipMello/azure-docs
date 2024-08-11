@@ -3,10 +3,9 @@ title: What are Azure Extended Zones (Preview)?
 description: Learn about Azure Extended Zones.
 author: halkazwini
 ms.author: halkazwini
-ms.service: azure
+ms.service: azure-extended-zones
 ms.topic: overview
-ms.date: 06/26/2024
-
+ms.date: 08/10/2024
 ---
 
 # What are Azure Extended Zones (Preview)?
@@ -44,6 +43,10 @@ The following table lists key services that are available in Azure Extended Zone
 | **Networking** | Azure Private Link <br> Standard public IP <br> Virtual networks <br> Virtual network peering <br> ExpressRoute <br> Azure Standard Load Balancer <br> DDoS (Standard protection) |
 | **Storage** | Azure managed disks <br> Azure Premium Page Blobs <br> Azure Premium Block Blobs <br> Azure Premium Files <br>  Azure Data Lake Storage Gen2<br> Hierarchical Namespace <br>Azure Data Lake Storage Gen2 Flat Namespace <br> Change Feed <br> Blob Features <br> - SFTP <br> - NFS |
 | **BCDR** | Azure Site Recovery <br> Azure Backup |
+
+## Frequently asked questions (FAQ)
+
+To get answers to most frequently asked questions about Azure Extended Zones, see [Azure Extended Zones FAQ](faq.md).
 
 ## Related content
 
